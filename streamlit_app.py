@@ -2,14 +2,11 @@ import streamlit as st
 
 st.title("🎈OneQTest")
 st.write(
-    "Circling on Sunday."
+    "Circling on Sunday. Set up first set of questions only, having wrangled through various setup stages."
 )
 
 import streamlit as st
 import json
-
-st.title("🎈OneQTest")
-st.write("Circling on Sunday.")
 
 class DSAComplianceTool:
     def __init__(self):
